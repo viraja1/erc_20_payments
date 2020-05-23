@@ -4,7 +4,7 @@ It is a non custodial solution which allows merchants to trigger their own purch
 transfer confirmation to their address.
 
 ### Sample Flow
-1) Merchant App prompts user to link their ETH address to the account.  
+1) Merchant App prompts user to link their ETH address to the account. 
    Address verification is done using signed messages.
 2) User selects a product on the Merchant App. The aDAI token is shown as a payment option. 
    When user clicks on the pay button, an order entry is created in the merchant database. 
